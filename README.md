@@ -12,4 +12,4 @@ Calcula el rango de la muestra de alturas anterior
 # USUARIO Y REPOSITORIO
 
 usuario: martinagg7
-link_repositorio:
+link_repositorio:https://github.com/martinagg7/tarea6_sage_estadisica.git
